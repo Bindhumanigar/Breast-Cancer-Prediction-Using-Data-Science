@@ -23,7 +23,6 @@ Breast cancer prediction aims to assist in early diagnosis and treatment by usin
 - **Data Processing**: pandas, NumPy
 - **Data Visualization**: matplotlib, seaborn
 - **Machine Learning**: scikit-learn
-- **Web Frameworks**: Flask, Django
 
 ## Getting Started
 To get started with this project, follow these steps:
