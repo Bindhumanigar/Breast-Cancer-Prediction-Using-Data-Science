@@ -30,5 +30,5 @@ To get started with this project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Breast-Cancer-Prediction.git
-   cd Breast-Cancer-Prediction
+   git clone https://github.com/Bindhumanigar/Breast-Cancer-Prediction-Using-Data-Science.git
+   cd Breast-Cancer-Prediction-Using-Data-Science
